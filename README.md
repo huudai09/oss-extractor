@@ -1,5 +1,5 @@
 # oss-extractor
-A simple tool to scan open source information for python and nodejs packages
+A simple tool to extract OSS information (nodejs, python) to csv file
 
 ## Usage
 
